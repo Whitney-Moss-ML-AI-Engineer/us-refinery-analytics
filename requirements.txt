@@ -1,0 +1,15 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+plotly
+requests
+openpyxl
+pyarrow
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+pydantic
+torch
