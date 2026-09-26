@@ -1,0 +1,7 @@
+{
+  "PADD1": ["CT","DE","FL","GA","ME","MD","MA","NH","NJ","NY","NC","PA","RI","SC","VT","VA","WV"],
+  "PADD2": ["IL","IN","IA","KS","MI","MN","MO","NE","ND","OH","SD","WI"],
+  "PADD3": ["AL","AR","LA","MS","OK","TX"],
+  "PADD4": ["CO","ID","MT","UT","WY"],
+  "PADD5": ["AK","AZ","CA","HI","NV","OR","WA"]
+}
